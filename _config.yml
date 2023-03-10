@@ -19,7 +19,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "이정민의 개인 블로그" # 상단 헤더에 보이는 블로그 명
+title: "Jeongmani" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jeongmani" # 블로그 닉네임 설정
@@ -29,7 +29,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: "Jeongmani/Jeongmani.github.io" # GitHub Repo 이름
 teaser: #
 
-logo                     : "/assets/images/potato.png"
+logo                     : "/assets/images/favicon/potato.png"
 masthead_title: # overrides the website title dissplayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
